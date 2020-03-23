@@ -17,8 +17,7 @@
         "item": "minecraft:stick"
       },
       "X": {
-        "item": "minecraft:cobblestone",
-        "count": 32
+        "item": "minecraft:cobblestone"
       }
     },
     "result": {

@@ -17,8 +17,7 @@
         "item": "minecraft:stick"
       },
       "X": {
-        "item": "minecraft:iron_block",
-        "count": 2
+        "item": "minecraft:iron_block"
       }
     },
     "result": {

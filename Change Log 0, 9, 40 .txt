@@ -1,0 +1,95 @@
+v0.0.1
+-increased health & damage of all hostile mobs
+-Most mobs will apply harmful effects when they attack you
+Spider:Poison
+Zombie:Poison
+Enderman: Wither
+
+-Skeletons shoot at a faster rate
+-Tamed wolfs don't die, hunt down hostile mobs, and carry items for you
+-witches throw potions at a faster rate
+-Blaze now shoot bursts of 10 fireballs that explode
+-Creeper's explosion cause huge destruction and is more likely to one-shot you
+-Hostile mobs no longer Burn in day light
+-Some enemies know where you are from up to 45 blocks away
+
+v0.1.4
+-Blaze and Wither skeletons have been buffed and now have a chance to drop diamonds (if you have looting)
+-Phantoms have a rare chance of dropping a elytra
+-Shulkers have a chance to drop enderpearls
+-creepers drop 4x the amount of gun powder
+-creepers have a chance to drop tnt
+-spiders have a chance to drop fermented spider eye with looting
+-witches now drop potions of regeneration, speed, or weakness along with a book of a random enchantment
+-zombies have a chance to drop a potion of strength, along with gold ingot and bread
+-witches have a rare chance to drop a totem if you have looting
+-witches now do a jumping melee attack if you're close enough
+-increased the damage of zombies, husks, spiders, and witch to 7
+-Fixed an issue that caused random crashes
+
+v0.4.1
+-Increased skeleton melee dmg from 2 to 6
+-Spiders can now chase you a bit faster as well as poison you.
+-Skeletons shoot a bit faster, and can shoot from farther distance. As well as chase you slightly faster.
+-Skeletons poison you if they hit you with melee attack
+-Drowned can move faster in water and land. They now attack from a slightly larger distance and their melee dmg was raised from 3 to 7.
+-creepers now run up on you, and you must lose them for 10 seconds to get them to stop chasing you.
+-Zombies, Husks, Skeletons and zombie vilagers can now swim underwater with the same pathfinding as drowned zombies.
+-Zombies, creepers, skeletons, husks, drowned and zombie vilagers can all now open and pass through doors.
+-Arrows can now to dmg randomly from 5 to 7
+-Blaze now have a higher chance of droping more diamonds, as well have a chance to drop potion of fireresistance
+-Creepers now have a chance to drop fireworks
+-Phantoms drop twice as much phantom membrane, as well as have a very slim chance to drop a enchanted totem. They now also drop potions of nightvision
+-Mobs will no longer avoid sunlight
+
+V0.8.12 Changes- food update
+-Adjusted to work better on update 1.13 beta
+-Fixed movement speed on some mobs
+-Changed crafing recipes to the stone,iron, and diamond sword
+	Stone Sword: 64 cobble + Stick
+	Iron Sword: 4 Iron Blocks + Stick
+	diamond Sword: 8 Diamonds + Blaze Rod
+-Added a new Nether Sword ( 64 Blaze Rod + 2 Nether Star )
+-Made tamed wolfs almost invincable
+-enchanted apples and regular ones take slightly longer to eat and also apply slowness
+-Most foods have been nerfed, and eating anything raw will give you hunger and slowness
+-cooked foods take slightly longer to eat
+-cookies give you speed
+- max stack size to any cooked food to 8
+- max stack size to any raw food is 16
+-eating cooked meats will grant breif regeneration
+-enchant gold apples max stack is 3
+-golden apples max stack 8
+-Golden Carrots are now a super food
+-Made the totem craftable ( Emerald Block Surrounded by Enchanted Apples)
+
+V0.8.12 Bugs
+-The Nether Sword does like no damage, will fix soon or remove
+-The speed of some mobs may be bugged
+-This is an alpha WIP so there will be some problems that will be fixed. Do report them on twitter @UECMT
+
+
+v0.8.20
+-Fixed the speed on a few entities
+-zombies have a chance to drop a iron sword with random enchant/durability (chances increase with looting)
+-Filling Crafting Table with rotten flesh will make leather
+-Fixed CookedMutton components to fit the rest of the cooked food effects
+-cooking Rotten Flesh in a smoker will make Jerky (Same benifits as cooked beef)
+-Removed the Nether Sword
+-Updated addon to 1.14
+
+
+v0.9.40
+-Removed Jerky
+-Removed placeholder files
+-Putting Rotten Flesh into a smoker will make raw beef
+-UUID Changed
+-Made addon open source (Hand picked contributors, join discord for more info)
+
+
+
+
+
+
+
+
