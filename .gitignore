@@ -10,6 +10,8 @@ bin-release/
 
 # Executables
 *.swf
+*.mcaddon
+*.zip
 *.air
 *.ipa
 *.apk
