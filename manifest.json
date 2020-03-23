@@ -3,8 +3,8 @@
 	"header": {
 		"description": "§cBy §aNightwalkerLots§r\n §o§b@Lastofthesorrow§r. \n§ehttps://www.youtube.com/c/nightwalkerlots",
 		"name": "§eUnofficial Hardmode Patch Behavior 0.9.40",
-		"uuid": "b0878f5c-dbe7-467a-8c54-798dfbbd0801",
-		"version": [0, 9, 40]
+		"uuid": "b0878f5c-dbe7-447a-8c54-798dfbbd0801",
+		"version": [0, 9, 44]
 
 	},
 	"modules": [
@@ -12,8 +12,8 @@
 
 		"description": "§cBy §aNightwalkerLots§r\n §o§b@Lastofthesorrow§r. \n§ehttps://www.youtube.com/c/nightwalkerlots",
 		"type": "data",
-		"uuid": "b74ceaa8-28e4-4b87-a6f7-50818d709c8c",
-		"version": [0, 9, 40]
+		"uuid": "b74ceaa4-28e4-4b87-a6f7-50818d709c8c",
+		"version": [0, 9, 44]
 		}
 
 	]

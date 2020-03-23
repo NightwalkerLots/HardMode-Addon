@@ -79,7 +79,7 @@ v0.8.20
 -Updated addon to 1.14
 
 
-v0.9.40
+v0.9.44
 -Removed Jerky
 -Removed placeholder files
 -Removed NetherSword ghost files
