@@ -82,8 +82,10 @@ v0.8.20
 v0.9.40
 -Removed Jerky
 -Removed placeholder files
+-Removed NetherSword ghost files
 -Putting Rotten Flesh into a smoker will make raw beef
 -UUID Changed
+-Added addon to GitHub
 -Made addon open source (Hand picked contributors, join discord for more info)
 
 
