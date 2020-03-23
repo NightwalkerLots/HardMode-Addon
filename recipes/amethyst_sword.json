@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "new:amethyst_sword"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "I",
+      "I",
+      "S"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:blaze_rod",
+        "count": 64
+      },
+      "I": {
+        "item": "minecraft:netherStar"
+      }
+    },
+    "result": {
+      "item": "new:amethyst_sword"
+    }
+  }
+    //Created by UECMT ModdingTeam
+   //Twitter @UECMT
+}

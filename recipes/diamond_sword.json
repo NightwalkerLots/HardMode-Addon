@@ -1,0 +1,28 @@
+{
+  "format_version": "1.14",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:diamond_sword"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X",
+      "X",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:blaze_rod"
+      },
+      "X": {
+        "item": "minecraft:diamond",
+        "count": 4
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond_sword"
+    }
+  }
+}

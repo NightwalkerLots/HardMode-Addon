@@ -1,0 +1,41 @@
+{
+ "minecraft:entity": {
+    "format_version": "1.4.0",
+  "components": {
+   "minecraft:identifier": {
+    "id": "minecraft:small_fireball"
+   },
+   "minecraft:collision_box": {
+    "width": 0.31,
+    "height": 0.31
+   },
+   "minecraft:projectile": {
+
+    "onHit": {
+      "impact_damage": {
+        "damage": 9,
+        "knockback": true,
+        "catchFire": false,
+        "semirandomdiffdamage": false
+      },
+      "catch_fire": {
+        "fireAffectedByGriefing": true
+      },
+      "remove_on_hit": { }
+    },
+    "power": 3.5,
+    "gravity": 0.00,
+    "inertia": 1,
+    "anchor": 2,
+    "offset": [ 0, 0.5, 0 ],
+    "semirandomdiffdamage": true,
+    "uncertaintyBase": 5.0,
+    "reflectOnHurt": true
+   },
+   "minecraft:physics": {
+   }
+  }
+ }
+    //Created by UECMT ModdingTeam
+   //Twitter @UECMT
+}

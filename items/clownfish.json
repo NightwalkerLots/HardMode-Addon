@@ -1,0 +1,37 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:clownfish"
+    },
+
+    "components": {
+      "minecraft:use_duration": 32,
+      "minecraft:max_stack_size": 16,
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation_modifier": "low",
+        "effects": [
+          {
+            "name": "hunger",
+            "chance": 1.0,
+            "duration": 30,
+            "amplifier": 1
+          },
+          {
+            "name": "slowness",
+            "chance": 1.0,
+            "duration": 30,
+            "amplifier": 2
+          },
+          {
+            "name": "poison",
+            "chance": 1.0,
+            "duration": 30,
+            "amplifier": 3
+          }
+        ]
+      }
+    }
+  }
+}

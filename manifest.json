@@ -1,0 +1,20 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "§cBy §aNightwalkerLots§r\n §o§b@Lastofthesorrow§r. \n§ehttps://www.youtube.com/c/nightwalkerlots",
+		"name": "§eUnofficial Hardmode Patch Behavior (Alpha v0.8.20)",
+		"uuid": "2d63b1ff-d058-4580-aca5-3053583e8f4d",
+		"version": [0, 8 , 20]
+
+	},
+	"modules": [
+		{
+
+		"description": "§cBy §aNightwalkerLots§r\n §o§b@Lastofthesorrow§r. \n§ehttps://www.youtube.com/c/nightwalkerlots",
+		"type": "data",
+		"uuid": "82ac4872-af9b-4c39-81c7-41869748e3b9",
+		"version": [0, 8, 20]
+		}
+
+	]
+}

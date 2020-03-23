@@ -1,0 +1,27 @@
+{
+  "format_version": "1.14",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "nightwalker:totem"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "SSS",
+      "SGS",
+      "SSS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:appleEnchanted"
+      },
+      "G": {
+        "item": "minecraft:emerald_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:totem"
+    }
+  }
+}

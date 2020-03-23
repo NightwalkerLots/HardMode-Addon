@@ -1,0 +1,72 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:book",
+                    "weight": 14,
+                    "functions": [
+                      {
+                        "function": "enchant_randomly"
+                      }
+                    ]
+                },
+                {
+                  "conditions": [
+                    {
+                        "condition": "killed_by_player"
+                    },
+                    {
+                        "condition": "random_chance_with_looting",
+                        "chance": 0.025,
+                        "looting_multiplier": 0.09
+                    }
+                ],
+                  "type": "item",
+                  "name": "minecraft:totem",
+                  "weight": 15,
+                  "functions": [
+                    {
+                      "function": "enchant_randomly"
+                    }
+                  ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:potion",
+                    "functions": [
+                      {
+                        "function": "set_data",
+                        "data": 30
+                      }
+                    ],
+                    "weight": 15
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:potion",
+                    "functions": [
+                      {
+                        "function": "set_data",
+                        "data": 16
+                      }
+                    ],
+                    "weight": 15
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:splash_potion",
+                    "functions": [
+                      {
+                        "function": "set_data",
+                        "data": 35
+                      }
+                    ],
+                    "weight": 15
+                }
+            ]
+        }
+    ]
+}
