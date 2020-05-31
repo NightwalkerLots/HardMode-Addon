@@ -1,0 +1,16 @@
+{
+    "format_version": "1.14",
+    "minecraft:recipe_furnace": {
+      "description": {
+      "identifier": "minecraft:prismarine_crystals"
+      },
+
+
+
+"tags": [
+"smoker"
+],
+"input": "minecraft:trident",
+"output": "minecraft:prismarine_crystals"
+}
+}

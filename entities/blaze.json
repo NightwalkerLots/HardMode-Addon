@@ -48,7 +48,7 @@
       },
       "minecraft:behavior.melee_attack": {
         "priority": 2,
-        "max_dist": 3,
+        "max_dist": 5,
         "speed_multiplier": 1,
         "random_stop_interval": 2.0,
         "track_target": true
