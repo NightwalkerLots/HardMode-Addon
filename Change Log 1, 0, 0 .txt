@@ -100,3 +100,9 @@ v1.0.0
 (Blaze health raised to 65, higher attack range, and shoot 8 fireballs instead of 3 at higher frequency)
 -All diamond tools now need a blaze rode instead of a stick to craft
 -Removed option to craft flesh into leather
+-All iron tools now need iron Blocks
+-Made a crafting recipe for enchanted_golden_apple
+-Gave more uses and effects to honey foods. Honey bottles now remove slowness as well as grant regeneration
+-Buffed vindicators
+-Golden Carrots now heal you but cause weakness
+-polarbears and pigs are now hostile 

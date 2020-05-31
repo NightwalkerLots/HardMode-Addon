@@ -1,0 +1,27 @@
+{
+  "format_version": "1.14",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "nightwalker:enchanted_golden_apple"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "SSS",
+      "SGS",
+      "SSS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:golden_apple"
+      },
+      "G": {
+        "item": "minecraft:apple"
+      }
+    },
+    "result": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  }
+}

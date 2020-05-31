@@ -4,11 +4,11 @@
     "description": {
       "identifier": "minecraft:appleEnchanted"
     },
-    
+
     "components": {
       "minecraft:hand_equipped": false,
       "minecraft:stacked_by_data": true,
-      "minecraft:use_duration": 44,
+      "minecraft:use_duration": 50,
       "minecraft:max_stack_size": 3,
       "minecraft:foil": true,
       "minecraft:food": {
@@ -20,16 +20,16 @@
             "name": "regeneration",
             "chance": 1.0,
             "duration": 30,
-            "amplifier": 4
+            "amplifier": 2
           },
           {
             "name": "absorption",
             "chance": 1.0,
-            "duration": 120, 
-            "amplifier": 3
+            "duration": 120,
+            "amplifier": 2
           },
           {
-            "name": "resistance", 
+            "name": "resistance",
             "chance": 1.0,
             "duration": 300,
             "amplifier": 1

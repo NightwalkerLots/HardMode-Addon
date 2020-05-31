@@ -1,0 +1,27 @@
+{
+  "format_version": "1.14",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:iron_axe"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XXX",
+      "X# ",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": [
+      { "item": "minecraft:iron_axe" }
+    ]
+  }
+}
