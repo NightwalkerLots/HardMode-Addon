@@ -96,3 +96,7 @@ v1.0.0
 -Increased chances and amount of endermite that spawn from a ender pearl
 -Saddles now have a crafting recipe
 -crossbows now have a crafting recipe
+-Blazes reworked to fix crashes
+(Blaze health raised to 65, higher attack range, and shoot 8 fireballs instead of 3 at higher frequency)
+-All diamond tools now need a blaze rode instead of a stick to craft
+-Removed option to craft flesh into leather
