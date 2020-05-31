@@ -2,7 +2,7 @@
     "format_version": "1.14",
     "minecraft:recipe_furnace": {
       "description": {
-      "identifier": "minecraft:jerky"
+      "identifier": "minecraft:leather"
       },
 
 
@@ -11,6 +11,6 @@
 "smoker"
 ],
 "input": "minecraft:rotten_flesh",
-"output": "minecraft:beef"
+"output": "minecraft:leather"
 }
 }

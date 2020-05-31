@@ -100,7 +100,7 @@
         "minecraft:equipment": {
           "table": "loot_tables/entities/zombie_equipment.json"
         }
-      } 
+      }
     },
 
     "components": {
@@ -135,8 +135,8 @@
       "minecraft:can_climb": {
       },
       "minecraft:health": {
-        "value": 45,
-        "max": 45
+        "value": 65,
+        "max": 65
       },
       "minecraft:breathable": {
         "totalSupply": 15,
@@ -146,8 +146,8 @@
       },
       "minecraft:attack": {
         "damage": 7,
-        "speed_multiplier": 0.35,
-        "effect_name": "poison", 
+        "speed_multiplier": 0.50,
+        "effect_name": "poison",
         "effect_duration": 10
       },
       "minecraft:loot": {

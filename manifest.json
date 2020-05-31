@@ -1,9 +1,10 @@
 {
+	"format_version": 1,
 	"header": {
 		"description": "§cBy §aNightwalkerLots§r\n §o§b@Lastofthesorrow§r. \n§ehttps://www.youtube.com/c/nightwalkerlots",
-		"name": "§eUnofficial Hardmode Patch Behavior 0.9.40",
-		"uuid": "d7f6c8fe-7a23-4183-b1bb-c3f4b22bbfed",
-		"version": [1, 0, 0]
+		"name": "§eUnofficial Hardmode Patch Behavior (Alpha v1.0.0)",
+		"uuid": "2653c24c-5ad6-42d6-891b-fe3012edacd3",
+		"version": [1, 0 , 0]
 
 	},
 	"modules": [
@@ -11,7 +12,7 @@
 
 		"description": "§cBy §aNightwalkerLots§r\n §o§b@Lastofthesorrow§r. \n§ehttps://www.youtube.com/c/nightwalkerlots",
 		"type": "data",
-		"uuid": "d7f6c8fe-7a23-4183-b1bb-c3f4b22bbfed",
+		"uuid": "82ac4872-af9b-4c39-81c7-41869748e3b9",
 		"version": [1, 0, 0]
 		}
 

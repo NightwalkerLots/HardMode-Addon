@@ -1,0 +1,33 @@
+{
+  "format_version": "1.14",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "nightwalker:crossbow"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "YSG",
+      "SGF",
+      "GFS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:stick"
+      },
+      "G": {
+        "item": "minecraft:string"
+      },
+      "Y": {
+        "item": "minecraft:iron_ingot"
+      },
+      "F": {
+        "item": "minecraft:planks"
+      }
+    },
+    "result": {
+      "item": "minecraft:crossbow"
+    }
+  }
+}

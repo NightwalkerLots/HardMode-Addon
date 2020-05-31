@@ -114,8 +114,8 @@
       },
 
       "minecraft:health": {
-        "value": 20,
-        "max": 20
+        "value": 40,
+        "max": 40
       },
       "minecraft:attack": {
         "damage": 4
@@ -203,7 +203,7 @@
       },
       "minecraft:behavior.nearest_attackable_target": {
         "priority": 2,
-        "speed_multiplier": 0.7,
+        "speed_multiplier": 1.1,
         "entity_types": [
           {
             "filters": {
@@ -307,5 +307,3 @@
     //Created by UECMT ModdingTeam
    //Twitter @UECMT
 }
- 
-

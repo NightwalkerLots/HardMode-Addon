@@ -88,10 +88,11 @@ v0.9.44
 -Added addon to GitHub
 -Made addon open source (Hand picked contributors, join discord for more info)
 
-
-
-
-
-
-
-
+v1.0.0
+-Fixed manifest
+-Tridents now smelt down into prismarine_crystals when using a blast_furnace
+-Zombie chasing speed is a bit faster
+-raised the health and chase speed for zombies and Creepers
+-Increased chances and amount of endermite that spawn from a ender pearl
+-Saddles now have a crafting recipe
+-crossbows now have a crafting recipe
