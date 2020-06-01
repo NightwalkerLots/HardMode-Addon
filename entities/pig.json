@@ -149,12 +149,12 @@
       },
       "minecraft:behavior.melee_attack": {
         "priority": 3,
-        "speed_multiplier": 0.58,
+        "speed_multiplier": 1.58,
         "track_target": false
       },
       "minecraft:attack": {
         "damage": 7,
-        "speed_multiplier": 0.50,
+        "speed_multiplier": 1.50,
         "effect_name": "weakness",
         "effect_duration": 10
       },

@@ -2,26 +2,26 @@
   "format_version": "1.14",
   "minecraft:recipe_shaped": {
     "description": {
-    "identifier": "minecraft:trident"
+    "identifier": "nightwalker:appleenchanted"
     },
 
 
     "tags": [ "crafting_table" ],
     "pattern": [
-      "G",
-      "X",
-      "X"
+      "SSS",
+      "SGS",
+      "SSS"
     ],
     "key": {
-      "X": {
-        "item": "minecraft:prismarine_crystals"
+      "S": {
+        "item": "minecraft:gold_ingot"
       },
       "G": {
-        "item": "minecraft:diamond"
+        "item": "minecraft:skull"
       }
     },
     "result": {
-      "item": "minecraft:trident"
+      "item": "minecraft:appleenchanted"
     }
   }
 }

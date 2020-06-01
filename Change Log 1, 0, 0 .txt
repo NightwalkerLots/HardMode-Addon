@@ -102,7 +102,12 @@ v1.0.0
 -Removed option to craft flesh into leather
 -All iron tools now need iron Blocks
 -Made a crafting recipe for enchanted_golden_apple
--Gave more uses and effects to honey foods. Honey bottles now remove slowness as well as grant regeneration
+-Gave more uses and effects to honey foods. Honey bottles now remove slowness as well as grant regeneration but give weakness
 -Buffed vindicators
--Golden Carrots now heal you but cause weakness
--polarbears and pigs are now hostile 
+-Golden Carrots now give regeneration you but cause weakness
+-polarbears and pigs are now hostile
+-Pigs have a chance to drop Carrots and gold_nuggets
+-Mobs will now drop their heads. Surrounding a mob head with gold will give you a enchanted apple
+-added recipe for blaze	rod
+-Iron Golems are now hostile to the player
+-Buffed loot in end cities, pyramids, and mineshafts.

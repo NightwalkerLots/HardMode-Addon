@@ -5,25 +5,29 @@
       "identifier": "minecraft:honey_bottle"
     },
     "components": {
-      "minecraft:use_duration": 60,
+      "minecraft:use_duration": 55,
       "minecraft:max_stack_size": 4,
       "minecraft:food": {
         "nutrition": 3,
         "saturation_modifier": "poor",
         "can_always_eat": true,
         "using_converts_to": "glass_bottle",
+        "remove_effects": [
+          "poison","slowness"
+        ],
         "effects": [
           {
             "name": "regeneration",
             "chance": 1.0,
             "duration": 30,
             "amplifier": 1
+          },
+          {
+            "name": "weakness",
+            "chance": 1.0,
+            "duration": 30,
+            "amplifier": 4
           }
-        ],
-        "remove_effects": [
-          {"poison"},
-          {"slowness"}
-
         ]
       }
     }

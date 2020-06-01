@@ -1,0 +1,31 @@
+{
+  "format_version": "1.14",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "nightwalker:blaze_rod"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "SFS",
+      "SGS",
+      "SFS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:gold_ingot"
+      },
+      "F": {
+        "item": "minecraft:stick"
+      },
+      "G": {
+        "item": "minecraft:bucket",
+        "data": 10
+      }
+    }     ,
+    "result": {
+      "item": "minecraft:blaze_rod"
+    }
+  }
+}

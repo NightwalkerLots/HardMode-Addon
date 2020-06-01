@@ -13,8 +13,9 @@
         "saturation_modifier": "normal",
         "effects": [
           {
-            "name": "health",
+            "name": "regeneration",
             "chance": 1.0,
+            "duration": 10,
             "amplifier": 1
           },
           {
